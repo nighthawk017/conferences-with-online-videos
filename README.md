@@ -15,6 +15,7 @@ This curated list is designed for developers, tech enthusiasts, and lifelong lea
 | Conference | Main Topic | Video URL🎥 | Location | Country | Additional information |
 |---|---|---|---|---|---|
 | [All Things Open](https://allthingsopen.org) | Open Source | https://www.youtube.com/@allthingsopen | Raleigh, NC | United States of America | |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | Cloud Computing | https://www.youtube.com/@AWSEventsChannel/playlists | Las Vegas, NV | United States of America | |
 | [Black Hat](https://blackhat.com) | Cybersecurity | https://www.youtube.com/@BlackHatOfficialYT/playlists | Various locations | Various countries | |
 | [Data Council](https://datacouncil.ai) | Data Engineering / Analytics | https://www.youtube.com/@DataCouncil/playlists | Various locations | Various countries | |
 | [DEF CON](https://defcon.org) | Security / Hacking | https://www.youtube.com/@DEFCONConference/playlists | Las Vegas | United States of America | |
@@ -23,6 +24,7 @@ This curated list is designed for developers, tech enthusiasts, and lifelong lea
 | [Devoxx UK](https://www.devoxx.co.uk/) | Software development with a focus on Java | https://www.youtube.com/@DevoxxUK | London | United Kingdom |  |
 | [EuroPython](https://ep2025.europython.eu/) | Python | https://www.youtube.com/@EuroPythonConference/playlists | Various locations | Various countries | |
 | [FOSDEM](https://fosdem.org/2025/) | Open source software | https://video.fosdem.org/ | Brussels | Belgium |  |
+| [Google I/O](https://io.google/) | Google Technologies | https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt | Mountain View, CA | United States of America | |
 | [GopherCon Europe](https://gophercon.eu/) | Go | https://www.youtube.com/@GopherConEurope/playlists | Various locations | Various countries in Europe |  |
 | [GOTO Conferences](https://gotopia.tech) | Software Engineering | https://www.youtube.com/@GOTO-/playlists | Various locations | Various countries | |
 | [HashiConf](https://www.hashiconf.com) | Infrastructure / DevOps | https://www.youtube.com/@hashicorp | Various locations | Various countries | |
@@ -30,12 +32,15 @@ This curated list is designed for developers, tech enthusiasts, and lifelong lea
 | [JavaOne](https://www.oracle.com/javaone/) | Java | https://www.youtube.com/java | Various locations | United States of America |  |
 | [JSConf](https://jsconf.com) | JavaScript | https://www.youtube.com/@jsconf_/playlists | Various locations | Various countries | |
 | [Kiwi PyCon](https://kiwipycon.nz/) | Python | https://www.youtube.com/@PythonNewZealand/playlists | Various locations | New Zeeland | |
+| [KotlinConf](https://kotlinconf.com/) | Kotlin | https://www.youtube.com/@Kotlin/playlists | Various locations | Various countries | |
 | [KubeCon + CloudNativeCon](https://www.cncf.io/) | DevOps | https://www.youtube.com/@cncf/playlists | Various locations | Various countries  |  |
 | [LeadDev](https://leaddev.com) | Engineering Leadership / Management | https://www.youtube.com/@LeadDev | Various locations | Various countries | |
 | [Microsoft Ignite](https://myignite.microsoft.com/) | Microsoft Technologies | https://ignite.microsoft.com/en-US/sessions | Various locations | Various countries | |
 | [NDC Conferences](https://ndcconferences.com/) | Software development | https://www.youtube.com/@NDC/playlists | Various locations | Various countries |  |
 | [Next.Js Conf](https://nextjs.org/conf) | Next.js | https://nextjs.org/conf https://www.youtube.com/@VercelHQ/playlists | San Francisco | California |  |
+| [Open Source Summit](https://events.linuxfoundation.org/open-source-summit/) | Open Source | https://www.youtube.com/@LinuxfoundationOrg/playlists | Various locations | Various countries | |
 | [OSCAFEST](https://festival.oscafrica.org/) | Open Source | https://www.youtube.com/@OpenSourceCommunityAfrica/videos | Lagos |  Nigeria |  |
+| [P99 Conf](https://www.p99conf.io/) | Performance oriented | https://www.p99conf.io/ | Virtual event locations |  | |
 | [PyCon AU](https://2025.pycon.org.au/) | Python | https://www.youtube.com/@PyConAU/playlists | Various locations | Australia | |
 | [PyCon DE](https://2025.pycon.de/) | Python | https://www.youtube.com/@PyConDE/playlists | Various locations | Germany | |
 | [PyCon US](https://us.pycon.org) | Python | https://www.youtube.com/@PyConUS/playlists | Various locations | Various countries | |
