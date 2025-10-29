@@ -24,6 +24,7 @@ This curated list is designed for developers, tech enthusiasts, and lifelong lea
 | [Devoxx UK](https://www.devoxx.co.uk/) | Software development with a focus on Java | https://www.youtube.com/@DevoxxUK | London | United Kingdom |  |
 | [EuroPython](https://ep2025.europython.eu/) | Python | https://www.youtube.com/@EuroPythonConference/playlists | Various locations | Various countries | |
 | [FOSDEM](https://fosdem.org/2025/) | Open source software | https://video.fosdem.org/ | Brussels | Belgium |  |
+| [GitNation](https://gitnation.com/) | Web development / Javascript | https://gitnation.com/talks | Various locations | Various countries | |
 | [Google I/O](https://io.google/) | Google Technologies | https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt | Mountain View, CA | United States of America | |
 | [GopherCon Europe](https://gophercon.eu/) | Go | https://www.youtube.com/@GopherConEurope/playlists | Various locations | Various countries in Europe |  |
 | [GOTO Conferences](https://gotopia.tech) | Software Engineering | https://www.youtube.com/@GOTO-/playlists | Various locations | Various countries | |
@@ -31,6 +32,7 @@ This curated list is designed for developers, tech enthusiasts, and lifelong lea
 | [HOPE](https://hope.net/) | Hacking / Security | https://www.youtube.com/@HackerVideo/playlists | New York, NY | United States of America | |
 | [JavaOne](https://www.oracle.com/javaone/) | Java | https://www.youtube.com/java | Various locations | United States of America |  |
 | [JSConf](https://jsconf.com) | JavaScript | https://www.youtube.com/@jsconf_/playlists | Various locations | Various countries | |
+| [JSHeroes](https://jsheroes.io) | JavaScript | https://www.youtube.com/@JSHeroes | Cluj-Napoca | Romania | |
 | [Kiwi PyCon](https://kiwipycon.nz/) | Python | https://www.youtube.com/@PythonNewZealand/playlists | Various locations | New Zeeland | |
 | [KotlinConf](https://kotlinconf.com/) | Kotlin | https://www.youtube.com/@Kotlin/playlists | Various locations | Various countries | |
 | [KubeCon + CloudNativeCon](https://www.cncf.io/) | DevOps | https://www.youtube.com/@cncf/playlists | Various locations | Various countries  |  |
